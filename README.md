@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -561,7 +561,7 @@ fieldset.field{border:0;margin:0;padding:0}
 const CFG = {
   currency: "TZS",                  // currency code for your country
   country: "Tanzania",              // country name for your quote text
-  whatsapp: "255700000000",          // WhatsApp number, digits only, with country code
+  whatsapp: "255741223984",          // WhatsApp number, digits only, with country code
   email: "hello@malonesinterior.com"  // where email requests go
 };
 
